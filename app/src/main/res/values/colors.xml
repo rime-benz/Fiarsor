@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="chocolate">#d2691e</color>
+    <color name="darkorange">#ff8c00</color>
+    <color name="gold">#ffd700</color>
+    <color name="goldenrod">#daa520</color>
+    <color name="A">#FFB74D</color>
+    <color name="B">#FFA726</color>
+    <color name="C">#DC880A</color>
+
+    <color name="signIn">#D45471</color>
+    <color name="signUp">#Dc480A</color>
+    <color name="overlayBack">#7f333639</color>
+    <color name="overlayAction">#0e0d0e</color>
+
+</resources>

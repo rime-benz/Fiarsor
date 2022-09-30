@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "163291033228",
+    "project_id": "fiarsor-404fb",
+    "storage_bucket": "fiarsor-404fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163291033228:android:002e39cb80cdeda1f955a9",
+        "android_client_info": {
+          "package_name": "com.example.fiarsor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163291033228-unohlt2uo2qhufs6i5rtnls2k8f6uqst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fiarsor",
+            "certificate_hash": "cfcecec0a8636b1ae794a1eb93ae5fe4d17c5901"
+          }
+        },
+        {
+          "client_id": "163291033228-8e06isq73ecung1h2d62cmo01tdotm3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt1o0H-OfdjPbsDkBxZM9m9S7uM--RvE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163291033228-8e06isq73ecung1h2d62cmo01tdotm3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
